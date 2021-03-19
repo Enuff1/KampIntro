@@ -23,7 +23,7 @@ namespace Odev3x2
         }
         public void Sil(Musteri musteri)
         {
-            Console.WriteLine(musteri.Name + " " + musteri.Surname + "başarıyla silindi!");
+            Console.WriteLine(musteri.Name + " " + musteri.Surname + " başarıyla silindi!");
         }
     }
 }
